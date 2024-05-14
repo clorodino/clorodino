@@ -1,11 +1,8 @@
 <div align="center">
-<div 
-  style="background-color: #343434; width: '100%'; padding: 2.25rem 0; border-radius: 4.5px">
-  <a href='https://juanlucastro.com/' target='_blank'>
-    <img src="https://juanlu-castro.vercel.app/images/J.svg" style="background: #343434;" height="70" />
-    <img src="https://juanlu-castro.vercel.app/images/C.svg" style="background: #343434;" height="70" />
-    <img src="https://juanlu-castro.vercel.app/images/Head.svg" style="background: #343434;" height="70" />
-  </a>
+<div>
+  <a href="https://juanlucastro.com/" target='_blank'>
+		<img src="jc-logo.svg" width="300" alt="Click to view online portfolio">
+	</a>
 </div>
 
 ###
